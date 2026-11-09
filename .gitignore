@@ -1,0 +1,4 @@
+beats.log.jsonl
+node_modules/
+dist/
+.DS_Store
