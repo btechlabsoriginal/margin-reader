@@ -18,6 +18,12 @@ Margin is a small self-hosted read-later library. Paste an article URL, and the 
 
 Node.js 22 or newer. You also need a compiler toolchain if `better-sqlite3` cannot use a prebuilt binary on your machine.
 
+## Screenshots
+
+<img width="1440" height="900" alt="Screenshot 2026-11-10 at 20 53 29" src="https://github.com/user-attachments/assets/65f0095a-d865-45e9-8484-dbc0cdaba32f" />
+<img width="1440" height="900" alt="Screenshot 2026-11-10 at 20 53 35" src="https://github.com/user-attachments/assets/a02bd7bb-1d66-4ea6-ba3b-000db8201e3d" />
+
+
 ## Local setup
 
 ```bash
